@@ -51,6 +51,9 @@ Part of the Demo Video Uploaded on Classroom
 
 ## Question 5: Panaroma Image Stictching App
 Two versions,
-V1: Refer Image_Stiching_App.py
-Take a video of 10 sec and stich the images using SIFT features, Flann Matching knn, and computing the homography.
+### V1: Refer Image_Stiching_App.py
+Take a video of 10 sec and stich the images using SIFT features, Flann Matching knn, and computing the homography and warpPerspective
+
+### V2: Refer Image_Stiching_ORB.py
+Capture 8 images using 'c' key and then stich them by using SIFT features, Flann Matching knn, and computing the homography and warpPerspective
 
