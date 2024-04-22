@@ -49,3 +49,8 @@ Also compute inverse of H
 Part of the Demo Video Uploaded on Classroom
 
 
+## Question 5: Panaroma Image Stictching App
+Two versions,
+V1: Refer Image_Stiching_App.py
+Take a video of 10 sec and stich the images using SIFT features, Flann Matching knn, and computing the homography.
+
