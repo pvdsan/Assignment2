@@ -24,5 +24,7 @@ Using OpenCV SIFT_create() we computer the SIFT feautures on both the patches an
 These are the two patches I selected:
 ![image](https://github.com/pvdsan/Assignment2/assets/22724124/aeabd18d-ef71-4570-af71-3f4f76cba12f)
 ![image](https://github.com/pvdsan/Assignment2/assets/22724124/1ef65ccf-513f-4146-bccb-a8f5d4f7211d)
+Result : ![image](https://github.com/pvdsan/Assignment2/assets/22724124/b173cb3a-8f80-4937-bf51-a57550e938b9)
+
 
 
