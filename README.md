@@ -18,6 +18,6 @@ I have used the exact same parameters for both the manual and OpenCv implementat
 Using Select_Image_Pair.ipynb we choose 2 frames that are atleast 2 sec apart and save them as image1.jpg and image2.jpg in the directory.
 Next we select a 50x50 kernel that we choose in running the Q3A_Compute_SIFT.ipynb. The UI is designed to take only a 50 x 50 kernel hence ensuring same superpixel size.
 Using OpenCV SIFT_create() we computer the SIFT feautures on both the patches and find the Sum of Squared Differences on the features.
-![image](https://github.com/pvdsan/Assignment2/assets/22724124/8f0b40ab-60d8-4b3c-9d6a-15a874bbac2d)  ![image](https://github.com/pvdsan/Assignment2/assets/22724124/f29c29c2-7196-45a3-a88d-09a175e5f031)
+![image](https://github.com/pvdsan/Assignment2/assets/22724124/aeabd18d-ef71-4570-af71-3f4f76cba12f)
 
 
