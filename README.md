@@ -45,4 +45,7 @@ Also compute inverse of H
 ![image](https://github.com/pvdsan/Assignment2/assets/22724124/61c3220d-27ca-49d8-b8cb-ed529797b6ac)
 
 
+## Question 4: Integral  RGB Feed Refer Q4_Integral_RGB_Feed.py
+Part of the Demo Video Uploaded on Classroom
+
 
